@@ -1,7 +1,56 @@
 ## Gold Standard Hotspots 
 
-### Candidate 1: DEC_5.0_4.0/RA_353/1_353.7 
+### Candidate 1
+![](https://github.com/edarragh/edarragh.github.io/blob/main/2_cmd.png)
+
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/2_corrected.csv)
+
+### Candidate 2
+![](https://github.com/edarragh/edarragh.github.io/blob/main/20_cmd.png)
+
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/20_corrected.csv)
+
+
+### Candidate 3 
+![](https://github.com/edarragh/edarragh.github.io/blob/main/31_cmd.png)
+
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/31_corrected.csv)
+
+
+### Candidate 4
+![](https://github.com/edarragh/edarragh.github.io/blob/main/33_cmd.png)
+
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/33_corrected.csv)
+
+
+### Candidate 5
+![](https://github.com/edarragh/edarragh.github.io/blob/main/41_cmd.png)
+
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/41_corrected.csv)
+
+
+### Candidate 6
+![](https://github.com/edarragh/edarragh.github.io/blob/main/58_cmd.png)
+
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/58_corrected.csv)
+
+
+### Candidate 7
+![](https://github.com/edarragh/edarragh.github.io/blob/main/62_cmd.png)
+
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/62_corrected.csv)
+
+
+### Candidate 8
+![](https://github.com/edarragh/edarragh.github.io/blob/main/69_cmd.png)
+
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/69_corrected.csv)
+
+
+### Candidate 9
 ![](https://github.com/edarragh/edarragh.github.io/blob/main/105_cmd.png)
+
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/105_corrected.csv)
 
 You can use the [editor on GitHub](https://github.com/edarragh/edarragh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
