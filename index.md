@@ -14,43 +14,43 @@ This candidate is located near the disrupting Pisces I dwarf galaxy. However, th
 
 
 ### Candidate 3 
-![CMD](https://github.com/edarragh/edarragh.github.io/main/31_cmd.png)
+![CMD](31_cmd.png)
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/31_corrected.csv)
 
 
 ### Candidate 4
-![CMD](https://github.com/edarragh/edarragh.github.io/33_cmd.png)
+![CMD](33_cmd.png)
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/33_corrected.csv)
 
 
 ### Candidate 5
-![](https://github.com/edarragh/edarragh.github.io/blob/main/41_cmd.png)
+![](41_cmd.png)
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/41_corrected.csv)
 
 
 ### Candidate 6
-![](https://github.com/edarragh/edarragh.github.io/blob/main/58_cmd.png)
+![](58_cmd.png)
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/58_corrected.csv)
 
 
 ### Candidate 7
-![](https://github.com/edarragh/edarragh.github.io/blob/main/62_cmd.png)
+![](62_cmd.png)
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/62_corrected.csv)
 
 
 ### Candidate 8
-![](https://github.com/edarragh/edarragh.github.io/blob/main/69_cmd.png)
+![](69_cmd.png)
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/69_corrected.csv)
 
 
 ### Candidate 9
-![](https://github.com/edarragh/edarragh.github.io/blob/main/105_cmd.png)
+![](105_cmd.png)
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/105_corrected.csv)
 
