@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Gold Standard Hotspots 
+
+### Candidate 1: DEC_5.0_4.0/RA_353/1_353.7 
+![](https://github.com/edarragh/edarragh.github.io/blob/main/105_cmd.png)
 
 You can use the [editor on GitHub](https://github.com/edarragh/edarragh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
