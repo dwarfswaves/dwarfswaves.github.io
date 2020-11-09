@@ -8,19 +8,19 @@ This candidate is located near the disrupting Pisces I dwarf galaxy. However, th
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/2_corrected.csv)
 
 ### Candidate 2
-![CMD](https://github.com/edarragh/edarragh.github.io/blob/main/20_cmd.png)
+![CMD](20_cmd.png)
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/20_corrected.csv)
 
 
 ### Candidate 3 
-![CMD](https://github.com/edarragh/edarragh.github.io/blob/main/31_cmd.png)
+![CMD](https://github.com/edarragh/edarragh.github.io/main/31_cmd.png)
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/31_corrected.csv)
 
 
 ### Candidate 4
-![CMD](https://github.com/edarragh/edarragh.github.io/blob/main/33_cmd.png)
+![CMD](https://github.com/edarragh/edarragh.github.io/33_cmd.png)
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/33_corrected.csv)
 
