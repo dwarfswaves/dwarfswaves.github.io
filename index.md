@@ -86,7 +86,7 @@ This candidate is likely associated with the Sagittarius stream. The RR Lyrae ha
 ### Candidate 9
 This candidate appears likely to be associated with the PS1-D Stream. Not only does it align closely with the stream's position, but the distance estimated from the RR Lyrae parallax and inferred from the color--magnitude diagram are both consistent with the measured stream distance of 22.9+5.9/-4.7 kpc (Bernard et al. [2016](https://academic.oup.com/mnras/article/463/2/1759/2892775)).
 ![](105_cmd.png)
-<img src="position_all_9.png" width="45%" height="45%"> <img src="proper_motion_all_9.png" width="45%" height="45%">
+<img src="position_all_9.png" width="49%" height="49%"> <img src="proper_motion_all_9.png" width="49%" height="49%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/105_corrected.csv)
 
