@@ -1,5 +1,5 @@
 ## Full Candidate List 
-Columns      | description
+Columns      | Description
 ------------ | -------------
 RA | degrees
 DEC | degrees
