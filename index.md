@@ -9,20 +9,24 @@ This candidate is located near the disrupting Pisces I dwarf galaxy. However, th
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/2_corrected.csv)
 
 ### Candidate 2
+This candidate appears near the Styx Stream, which has been interpreted as the tidal tail of the disrupting Bo{\"o}tes III dwarf galaxy (Carlin & Sand [2018](https://iopscience.iop.org/article/10.3847/1538-4357/aad8c1)). However, the average proper motion is inconsistent with the previously measured value for the stream and the stars shown in the color--magnitude diagram are fainter than expected for an object at 45 kpc (Grillmair [2009](https://iopscience.iop.org/article/10.1088/0004-637X/693/2/1118)).
+
 ![CMD](20_cmd.png)
-<img src="position_all_2.png" width="45%" height="45%"> <img src="proper_motion_all_2.png" width="45%" height="45%">
+<img src="position_all_2.png" width="49%" height="49%"> <img src="proper_motion_all_2.png" width="49%" height="49%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/20_corrected.csv)
 
 
 ### Candidate 3 
+This candidate is likely associated with the Sagittarius stream. The RR Lyrae has been determined to be a member of the stream with high probability (Ramos et al. [2020](https://www.aanda.org/10.1051/0004-6361/202037819)), and distance estimated from the color--magnitude diagram (around 50 kpc) is consistent with the prediction from (Law & Majewski [2010](https://iopscience.iop.org/article/10.1088/0004-637X/714/1/229)). The proper motion values are consistent with the Sagittarius stream measurements from (Antoja et al. [2020](https://www.aanda.org/articles/aa/abs/2020/03/aa37145-19/aa37145-19.html)), which predicts $\mu_{tot} = 1.0$ mas\ yr$^{-1}$.}
 ![CMD](31_cmd.png)
-<img src="position_all_3.png" width="45%" height="45%"> <img src="proper_motion_all_3.png" width="45%" height="45%">
+<img src="position_all_3.png" width="49%" height="49%"> <img src="proper_motion_all_3.png" width="49%" height="49%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/31_corrected.csv)
 
 
 ### Candidate 4
+This candidate is likely associated with the Sagittarius stream. The RR Lyrae has been determined to be a member of the stream with high probability \citep{Ramos_2020}, and distance estimated from the color--magnitude diagram (around 50 kpc) is consistent with the prediction from \cite{Law_2010}. The proper motion values are consistent with the Sagittarius stream measurements from \cite{Antoja_2020}, which predicts $\mu_{tot} = 1.0$ mas/yr$^{-1}$.
 ![CMD](33_cmd.png)
 <img src="position_all_4.png" width="45%" height="45%"> <img src="proper_motion_all_4.png" width="45%" height="45%">
 
