@@ -1,3 +1,20 @@
+## Full Candidate List 
+Columns | 
+------------ | -------------
+RA | degrees
+DEC | degrees
+l | degrees
+b | degrees
+DES_FOOTPRINT | TRUE if in DES Footprint 
+PS1_FOOTPRINT | TRUE if in PS1 Footprint 
+DELVE_FOOTPRINT | TRUE if in DELVE Footprint 
+EBV_FLAG | TRUE if E(B-V) > 0.2 
+GOLD_STANDARD | TRUE if in "gold standard" candidate list 
+RR_LYRAE | TRUE if candidate contains rr lyrae 
+
+[Candidate List](significance_list_cut_final.csv)
+
+
 ## Gold Standard Hotspots 
 
 ### Candidate 1
