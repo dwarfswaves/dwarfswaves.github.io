@@ -16,7 +16,7 @@ RR_LYRAE | TRUE if candidate contains rr lyrae
 [Candidate List](significance_list_cut_final.csv)
 
 
-## Gold Standard Hotspots 
+## Gold Standard + RR Lyrae Hotspots 
 
 ### Candidate 1
 This candidate is located near the disrupting Pisces I dwarf galaxy. However, the RR Lyrae does not appear to be a confirmed member of Pisces I and the color--magnitude diagram and RR Lyrae parallax distance are more consistent with a closer object (D ~ 20 kpc; Molnár et al. [2015](https://academic.oup.com/mnras/article/452/4/4283/1065787)). 
