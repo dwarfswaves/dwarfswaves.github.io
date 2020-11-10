@@ -4,7 +4,7 @@
 This candidate is located near the disrupting Pisces I dwarf galaxy. However, the RR Lyrae does not appear to be a confirmed member of Pisces I and the color--magnitude diagram and RR Lyrae parallax distance are more consistent with a closer object (D ~ 20 kpc). 
 
 ![CMD](2_cmd.png)
-![position](position_all_1.png width=100) ![pm](proper_motion_all_1.png width=100)
+![position](position_all_1.png width="100") ![pm](proper_motion_all_1.png width="100")
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/2_corrected.csv)
 
