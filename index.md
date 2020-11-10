@@ -17,7 +17,8 @@ RR_LYRAE | TRUE if candidate contains rr lyrae
 
 [Candidate List](significance_list_cut_all.csv)
 
-
+## Gold Standard
+[2](2_candidate.csv) [21](21_candidate.csv) [24](24_candidate.csv) [27](27_candidate.csv) 
 ## Gold Standard + RR Lyrae Hotspots 
 
 ### Candidate 1
