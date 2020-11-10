@@ -4,20 +4,20 @@
 This candidate is located near the disrupting Pisces I dwarf galaxy. However, the RR Lyrae does not appear to be a confirmed member of Pisces I and the color--magnitude diagram and RR Lyrae parallax distance are more consistent with a closer object (D ~ 20 kpc). 
 
 ![CMD](2_cmd.png)
-<img src="position_all_1.png" width="50%" height="50%"> <img src="proper_motion_all_1.png" width="50%" height="50%">
+<img src="position_all_1.png" width="45%" height="45%"> <img src="proper_motion_all_1.png" width="45%" height="45%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/2_corrected.csv)
 
 ### Candidate 2
 ![CMD](20_cmd.png)
-<img src="position_all_2.png" width="50%" height="50%"> <img src="proper_motion_all_2.png" width="50%" height="50%">
+<img src="position_all_2.png" width="45%" height="45%"> <img src="proper_motion_all_2.png" width="45%" height="45%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/20_corrected.csv)
 
 
 ### Candidate 3 
 ![CMD](31_cmd.png)
-<img src="position_all_3.png" width="50%" height="50%"> <img src="proper_motion_all_3.png" width="50%" height="50%">
+<img src="position_all_3.png" width="45%" height="45%"> <img src="proper_motion_all_3.png" width="45%" height="45%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/31_corrected.csv)
 
