@@ -18,8 +18,19 @@ RR_LYRAE | TRUE if candidate contains rr lyrae
 [Candidate List](significance_list_cut_all.csv)
 
 ## Gold Standard
-[2](2_candidate.csv) [21](21_candidate.csv) [24](24_candidate.csv) [27](27_candidate.csv) 
-## Gold Standard + RR Lyrae Hotspots 
+[2](2_candidate.csv) [21](21_candidate.csv) [24](24_candidate.csv) [27](27_candidate.csv) [30](30_candidate.csv) [39](39_candidate.csv) [46](46_candidate.csv) [50](50_candidate.csv) [63](63_candidate.csv) [80](80_candidate.csv) [92](92_candidate.csv) [93](93_candidate.csv) [97](97_candidate.csv)
+[100](100_candidate.csv) [117](117_candidate.csv) [123](123_candidate.csv) [136](136_candidate.csv) [149](149_candidate.csv) [162](162_candidate.csv) [171](171_candidate.csv) [185](185_candidate.csv) [192](192_candidate.csv)
+[205](205_candidate.csv) [242](242_candidate.csv) [251](251_candidate.csv) [253](253_candidate.csv) [254](254_candidate.csv) [262](262_candidate.csv) [267](267_candidate.csv) 
+[300](309_candidate.csv) [305](305_candidate.csv) [322](322_candidate.csv) [330](330_candidate.csv) [340](340_candidate.csv) [347](347_candidate.csv) [348](348_candidate.csv) [386](386_candidate.csv) [387](387_candidate.csv) [391](391_candidate.csv) [393](393_candidate.csv) [396](396_candidate.csv) 
+[407](407_candidate.csv) [418](418_candidate.csv) [424](424_candidate.csv) [444](444_candidate.csv) [445](445_candidate.csv) [450](450_candidate.csv) [451](451_candidate.csv) [453](453_candidate.csv) [470](470_candidate.csv) [480](480_candidate.csv) [486](486_candidate.csv) [496](496_candidate.csv) [497](497_candidate.csv) [498](498_candidate.csv)
+[508](508_candidate.csv) [512](512_candidate.csv) [520](520_candidate.csv) [526](526_candidate.csv) [527](527_candidate.csv) [528](528_candidate.csv) [546](546_candidate.csv) [547](547_candidate.csv) [549](549_candidate.csv) [552](552_candidate.csv) [557](557_candidate.csv) [560](560_candidate.csv) [565](565_candidate.csv) [566](566_candidate.csv) [568](568_candidate.csv) [574](574_candidate.csv) [587](587_candidate.csv) [589](589_candidate.csv) [593](593_candidate.csv)
+[609](609_candidate.csv) [621](621_candidate.csv) [630](630_candidate.csv) [640](640_candidate.csv) [652](652_candidate.csv) [664](664_candidate.csv) [674](674_candidate.csv) [675](675_candidate.csv) [686](686_candidate.csv) [697](697_candidate.csv)
+[700](700_candidate.csv) [737](737_candidate.csv) [749](749_candidate.csv) [755](755_candidate.csv) [770](770_candidate.csv) [779](779_candidate.csv)
+[800](800_candidate.csv) [804](804_candidate.csv) [838](838_candidate.csv) [839](839_candidate.csv) [844](844_candidate.csv) [856](856_candidate.csv)
+[900](900_candidate.csv) [904](904_candidate.csv) [930](930_candidate.csv) [947](947_candidate.csv) [968](968_candidate.csv) [973](973_candidate.csv) [986](986_candidate.csv) [997](997_candidate.csv) [998](998_candidate.csv) [999](999_candidate.csv)
+[1000](1000_candidate.csv) [1010](1010_candidate.csv) [1013](1013_candidate.csv) [1015](1015_candidate.csv) [1020](1020_candidate.csv) [1022](1022_candidate.csv)
+
+ ## Gold Standard + RR Lyrae Hotspots 
 
 ### Candidate 1
 This candidate is located near the disrupting Pisces I dwarf galaxy. However, the RR Lyrae does not appear to be a confirmed member of Pisces I and the color--magnitude diagram and RR Lyrae parallax distance are more consistent with a closer object (D ~ 20 kpc; Molnár et al. [2015](https://academic.oup.com/mnras/article/452/4/4283/1065787)). 
