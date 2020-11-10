@@ -2,7 +2,8 @@
 
 Columns      | Description
 ------------ | -------------
-candidate number | ID
+ID | candidate number
+significance | wavelet significance (Darragh-Ford et al. 2020)
 RA | degrees
 DEC | degrees
 l | degrees
