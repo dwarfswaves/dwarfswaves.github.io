@@ -2,6 +2,7 @@
 
 Columns      | Description
 ------------ | -------------
+candidate number | ID
 RA | degrees
 DEC | degrees
 l | degrees
@@ -13,7 +14,7 @@ EBV_FLAG | TRUE if E(B-V) > 0.2
 GOLD_STANDARD | TRUE if in "gold standard" candidate list 
 RR_LYRAE | TRUE if candidate contains rr lyrae 
 
-[Candidate List](significance_list_cut_final.csv)
+[Candidate List](significance_list_cut_all.csv)
 
 
 ## Gold Standard + RR Lyrae Hotspots 
