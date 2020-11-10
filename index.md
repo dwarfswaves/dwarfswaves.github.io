@@ -1,7 +1,7 @@
 ## Gold Standard Hotspots 
 
 ### Candidate 1
-This candidate is located near the disrupting Pisces I dwarf galaxy. However, the RR Lyrae does not appear to be a confirmed member of Pisces I and the color--magnitude diagram and RR Lyrae parallax distance are more consistent with a closer object (D ~ 20 kpc). 
+This candidate is located near the disrupting Pisces I dwarf galaxy. However, the RR Lyrae does not appear to be a confirmed member of Pisces I and the color--magnitude diagram and RR Lyrae parallax distance are more consistent with a closer object (D ~ 20 kpc; Molnár et al. [2015](https://academic.oup.com/mnras/article/452/4/4283/1065787)). 
 
 ![CMD](2_cmd.png)
 <img src="position_all_1.png" width="49%" height="49%"> <img src="proper_motion_all_1.png" width="49%" height="49%">
