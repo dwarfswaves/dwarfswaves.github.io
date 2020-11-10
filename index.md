@@ -24,42 +24,42 @@ This candidate is located near the disrupting Pisces I dwarf galaxy. However, th
 
 ### Candidate 4
 ![CMD](33_cmd.png)
-<img src="position_all_4.png" width="50%" height="50%"> <img src="proper_motion_all_4.png" width="50%" height="50%">
+<img src="position_all_4.png" width="45%" height="45%"> <img src="proper_motion_all_4.png" width="45%" height="45%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/33_corrected.csv)
 
 
 ### Candidate 5
 ![](41_cmd.png)
-<img src="position_all_5.png" width="50%" height="50%"> <img src="proper_motion_all_5.png" width="50%" height="50%">
+<img src="position_all_5.png" width="45%" height="45%"> <img src="proper_motion_all_5.png" width="45%" height="45%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/41_corrected.csv)
 
 
 ### Candidate 6
 ![](58_cmd.png)
-<img src="position_all_6.png" width="50%" height="50%"> <img src="proper_motion_all_6.png" width="50%" height="50%">
+<img src="position_all_6.png" width="45%" height="45%"> <img src="proper_motion_all_6.png" width="45%" height="45%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/58_corrected.csv)
 
 
 ### Candidate 7
 ![](62_cmd.png)
-<img src="position_all_7.png" width="50%" height="50%"> <img src="proper_motion_all_7.png" width="50%" height="50%">
+<img src="position_all_7.png" width="45%" height="45%"> <img src="proper_motion_all_7.png" width="45%" height="45%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/62_corrected.csv)
 
 
 ### Candidate 8
 ![](69_cmd.png)
-<img src="position_all_8.png" width="50%" height="50%"> <img src="proper_motion_all_8.png" width="50%" height="50%">
+<img src="position_all_8.png" width="45%" height="45%"> <img src="proper_motion_all_8.png" width="45%" height="45%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/69_corrected.csv)
 
 
 ### Candidate 9
 ![](105_cmd.png)
-<img src="position_all_9.png" width="50%" height="50%"> <img src="proper_motion_all_9.png" width="50%" height="50%">
+<img src="position_all_9.png" width="45%" height="45%"> <img src="proper_motion_all_9.png" width="45%" height="45%">
 
 [Data File](https://github.com/edarragh/edarragh.github.io/blob/main/105_corrected.csv)
 
