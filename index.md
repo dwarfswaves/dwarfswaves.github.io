@@ -30,7 +30,10 @@ RR_LYRAE | TRUE if candidate contains rr lyrae
 [900](900_candidate.csv) [904](904_candidate.csv) [930](930_candidate.csv) [947](947_candidate.csv) [968](968_candidate.csv) [973](973_candidate.csv) [986](986_candidate.csv) [997](997_candidate.csv) [998](998_candidate.csv) [999](999_candidate.csv)
 [1000](1000_candidate.csv) [1010](1010_candidate.csv) [1013](1013_candidate.csv) [1015](1015_candidate.csv) [1020](1020_candidate.csv) [1022](1022_candidate.csv)
 
- ## Gold Standard + RR Lyrae Hotspots 
+## RR Lyrae 
+[78](78_candidate.csv) [94](94_candidate.csv) [109](109_candidate.csv) [335](335_candidate.csv) [363](363_candidate.csv) [389](389_candidate.csv) [400](400_candidate.csv) [401](401_candidate.csv) [414](414_candidate.csv) [420](420_candidate.csv) [436](436_candidate.csv) [442](442_candidate.csv) [456](456_candidate.csv) [457](457_candidate.csv) [461](461_candidate.csv) [468](468_candidate.csv) [511](511_candidate.csv) [599](599_candidate.csv) [665](665_candidate.csv) [758](758_candidate.csv) [824](824_candidate.csv) [841](841_candidate.csv) [846](846_candidate.csv) [913](913_candidate.csv) [942](942_candidate.csv) [978](978_candidate.csv) [1028](1028_candidate.csv) 
+
+## Gold Standard + RR Lyrae Candidates 
 
 ### Candidate 1
 This candidate is located near the disrupting Pisces I dwarf galaxy. However, the RR Lyrae does not appear to be a confirmed member of Pisces I and the color--magnitude diagram and RR Lyrae parallax distance are more consistent with a closer object (D ~ 20 kpc; Molnár et al. [2015](https://academic.oup.com/mnras/article/452/4/4283/1065787)). 
