@@ -64,6 +64,7 @@ This candidate is likely associated with the Sagittarius stream. The RR Lyrae ha
 
 ### Candidate 4
 This candidate is likely associated with the Sagittarius stream. The RR Lyrae has been determined to be a member of the stream with high probability (Ramos et al. [2020](https://www.aanda.org/10.1051/0004-6361/202037819)), and distance estimated from the color--magnitude diagram (around 50 kpc) is consistent with the prediction from (Law & Majewski [2010](https://iopscience.iop.org/article/10.1088/0004-637X/714/1/229)). The proper motion values are consistent with the Sagittarius stream measurements from (Antoja et al. [2020](https://www.aanda.org/articles/aa/abs/2020/03/aa37145-19/aa37145-19.html)), which predicts μ = 1.0 mas/yr.
+
 ![CMD](4_cmd.png)
 <img src="position_all_4.png" width="49%" height="49%"> <img src="proper_motion_all_4.png" width="49%" height="49%">
 
@@ -72,6 +73,7 @@ This candidate is likely associated with the Sagittarius stream. The RR Lyrae ha
 
 ### Candidate 5
 This candidate appears near the GD-1 stream at D = 8 kpc (de Boer et al. [2018](https://academic.oup.com/mnras/article-abstract/477/2/1893/4935192?redirectedFrom=fulltext)). However, the color--magnitude diagram is more consistent with an intermediate distance (around 25 kpc), and the RR Lyrae does not appear to be a known associate (Sesar et al. [2013](https://iopscience.iop.org/article/10.1088/0004-6256/146/2/21)).
+
 ![](5_cmd.png)
 <img src="position_all_5.png" width="49%" height="49%"> <img src="proper_motion_all_5.png" width="49%" height="49%">
 
@@ -80,6 +82,7 @@ This candidate appears near the GD-1 stream at D = 8 kpc (de Boer et al. [2018](
 
 ### Candidate 6
 This candidate appears near the GD-1 stream at D = 8 kpc (de Boer et al. [2018](https://academic.oup.com/mnras/article-abstract/477/2/1893/4935192?redirectedFrom=fulltext)). However, the color--magnitude diagram is more consistent with an intermediate distance (around 25 kpc), and the RR Lyrae does not appear to be a known associate (Sesar et al. [2013](https://iopscience.iop.org/article/10.1088/0004-6256/146/2/21)).
+
 ![](6_cmd.png)
 <img src="position_all_6.png" width="49%" height="49%"> <img src="proper_motion_all_6.png" width="49%" height="49%">
 
@@ -88,6 +91,7 @@ This candidate appears near the GD-1 stream at D = 8 kpc (de Boer et al. [2018](
 
 ### Candidate 7
 This candidate appears near both the Lethe and Sagittarius streams. It is likely associated with the Sagittarius stream as the RR Lyrae has been determined to be a member of the stream with high probability (Ramos et al. [2020](https://www.aanda.org/10.1051/0004-6361/202037819)). However, the color--magnitude diagram does not strongly favor or disfavor association with the Sagittarius Stream, which is expected to be at a distance of 30 kpc in this region (Law & Majewski [2010](https://iopscience.iop.org/article/10.1088/0004-637X/714/1/229)). In addition, the color--magnitude diagram is qualitatively different than those returned for known globular clusters recovered by our search (the progenitor of the Lethe Stream is thought to be a globular cluster; (Grillmair [2009](https://iopscience.iop.org/article/10.1088/0004-637X/693/2/1118)). The total measured proper motion in this region of the stream shows significant scatter, so also does not provide much additional information (Antoja et al. [2020](https://www.aanda.org/articles/aa/abs/2020/03/aa37145-19/aa37145-19.html)).
+
 ![](7_cmd.png)
 <img src="position_all_7.png" width="49%" height="49%"> <img src="proper_motion_all_7.png" width="49%" height="49%">
 
@@ -96,6 +100,7 @@ This candidate appears near both the Lethe and Sagittarius streams. It is likely
 
 ### Candidate 8
 This candidate is likely associated with the Sagittarius stream. The RR Lyrae has been determined to be a member of the stream with high probability (Ramos et al. [2020](https://www.aanda.org/10.1051/0004-6361/202037819)), and distance estimated from the color--magnitude diagram (around 30 kpc) is consistent with the prediction from (Law & Majewski [2010](https://iopscience.iop.org/article/10.1088/0004-637X/714/1/229)). The total measured proper motion in this region of the stream shows significant scatter, so also does not provide much additional information (Antoja et al. [2020](https://www.aanda.org/articles/aa/abs/2020/03/aa37145-19/aa37145-19.html)).
+
 ![](8_cmd.png)
 <img src="position_all_8.png" width="49%" height="49%"> <img src="proper_motion_all_8.png" width="49%" height="49%">
 
@@ -104,6 +109,7 @@ This candidate is likely associated with the Sagittarius stream. The RR Lyrae ha
 
 ### Candidate 9
 This candidate appears likely to be associated with the PS1-D Stream. Not only does it align closely with the stream's position, but the distance estimated from the RR Lyrae parallax and inferred from the color--magnitude diagram are both consistent with the measured stream distance of 22.9+5.9/-4.7 kpc (Bernard et al. [2016](https://academic.oup.com/mnras/article/463/2/1759/2892775)).
+
 ![](9_cmd.png)
 <img src="position_all_9.png" width="49%" height="49%"> <img src="proper_motion_all_9.png" width="49%" height="49%">
 
