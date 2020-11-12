@@ -11,6 +11,7 @@ b | degrees
 DES_FOOTPRINT | TRUE if in DES Footprint 
 PS1_FOOTPRINT | TRUE if in PS1 Footprint 
 DELVE_FOOTPRINT | TRUE if in DELVE Footprint 
+DECALS_FOOTPRINT | TRUE if in DECals Footprint 
 EBV_FLAG | TRUE if E(B-V) > 0.2 
 GOLD_STANDARD | TRUE if in "gold standard" candidate list 
 RR_LYRAE | TRUE if candidate contains rr lyrae 
