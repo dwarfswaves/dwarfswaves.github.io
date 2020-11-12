@@ -16,7 +16,7 @@ EBV_FLAG | TRUE if E(B-V) > 0.2
 GOLD_STANDARD | TRUE if in "gold standard" candidate list 
 RR_LYRAE | TRUE if candidate contains rr lyrae 
 
-[Candidate List](significance_list_cut_all.csv)
+[Candidate List](https://github.com/edarragh/edarragh.github.io/blob/main/significance_list_cut_all.csv)
 
 ## Gold Standard
 [2](2_candidate.csv) [21](21_candidate.csv) [24](24_candidate.csv) [27](27_candidate.csv) [30](30_candidate.csv) [39](39_candidate.csv) [46](46_candidate.csv) [50](50_candidate.csv) [63](63_candidate.csv) [80](80_candidate.csv) [92](92_candidate.csv) [93](93_candidate.csv) [97](97_candidate.csv)
