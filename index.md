@@ -42,7 +42,7 @@ This candidate is located near the disrupting Pisces I dwarf galaxy. However, th
 ![CMD](0_cmd.png)
 <img src="position_all_1.png" width="49%" height="49%"> <img src="proper_motion_all_1.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/0_candidate_g.csv)
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/1_candidate_g.csv)
 
 ### Candidate 2
 This candidate appears near the Styx Stream, which has been interpreted as the tidal tail of the disrupting Boötes III dwarf galaxy (Carlin & Sand [2018](https://iopscience.iop.org/article/10.3847/1538-4357/aad8c1)). However, the average proper motion is inconsistent with the previously measured value for the stream and the stars shown in the color--magnitude diagram are fainter than expected for an object at 45 kpc (Grillmair [2009](https://iopscience.iop.org/article/10.1088/0004-637X/693/2/1118)).
@@ -50,7 +50,7 @@ This candidate appears near the Styx Stream, which has been interpreted as the t
 ![CMD](1_cmd.png)
 <img src="position_all_2.png" width="49%" height="49%"> <img src="proper_motion_all_2.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/1_candidate_g.csv)
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/2_candidate_g.csv)
 
 
 ### Candidate 3 
@@ -59,7 +59,7 @@ This candidate is likely associated with the Sagittarius stream. The RR Lyrae ha
 ![CMD](2_cmd.png)
 <img src="position_all_3.png" width="49%" height="49%"> <img src="proper_motion_all_3.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/2_candidate_g.csv)
+[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/3_candidate_g.csv)
 
 
 ### Candidate 4
