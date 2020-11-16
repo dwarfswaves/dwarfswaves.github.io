@@ -16,7 +16,7 @@ EBV_FLAG | TRUE if E(B-V) > 0.2
 GOLD_STANDARD | TRUE if in "gold standard" candidate list 
 RR_LYRAE | TRUE if candidate contains rr lyrae 
 
-[Candidate List](https://github.com/edarragh/edarragh.github.io/blob/main/significance_list_cut_all.csv)
+[Candidate List](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/significance_list_cut_all.csv)
 
 ## Gold Standard
 [2](2_candidate.csv) [21](21_candidate.csv) [24](24_candidate.csv) [27](27_candidate.csv) [30](30_candidate.csv) [39](39_candidate.csv) [46](46_candidate.csv) [50](50_candidate.csv) [63](63_candidate.csv) [80](80_candidate.csv) [92](92_candidate.csv) [93](93_candidate.csv) [97](97_candidate.csv)
@@ -42,7 +42,7 @@ This candidate is located near the disrupting Pisces I dwarf galaxy. However, th
 ![CMD](0_cmd.png)
 <img src="position_all_1.png" width="49%" height="49%"> <img src="proper_motion_all_1.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/1_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/1_candidate_g.csv)
 
 ### Candidate 2
 This candidate appears near the Styx Stream, which has been interpreted as the tidal tail of the disrupting Boötes III dwarf galaxy (Carlin & Sand [2018](https://iopscience.iop.org/article/10.3847/1538-4357/aad8c1)). However, the average proper motion is inconsistent with the previously measured value for the stream and the stars shown in the color--magnitude diagram are fainter than expected for an object at 45 kpc (Grillmair [2009](https://iopscience.iop.org/article/10.1088/0004-637X/693/2/1118)).
@@ -50,7 +50,7 @@ This candidate appears near the Styx Stream, which has been interpreted as the t
 ![CMD](1_cmd.png)
 <img src="position_all_2.png" width="49%" height="49%"> <img src="proper_motion_all_2.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/2_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/2_candidate_g.csv)
 
 
 ### Candidate 3 
@@ -59,7 +59,7 @@ This candidate is likely associated with the Sagittarius stream. The RR Lyrae ha
 ![CMD](2_cmd.png)
 <img src="position_all_3.png" width="49%" height="49%"> <img src="proper_motion_all_3.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/3_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/3_candidate_g.csv)
 
 
 ### Candidate 4
@@ -68,7 +68,7 @@ This candidate is likely associated with the Sagittarius stream. The RR Lyrae ha
 ![CMD](4_cmd.png)
 <img src="position_all_4.png" width="49%" height="49%"> <img src="proper_motion_all_4.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/4_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/4_candidate_g.csv)
 
 
 ### Candidate 5
@@ -77,7 +77,7 @@ This candidate appears near the GD-1 stream at D = 8 kpc (de Boer et al. [2018](
 ![](5_cmd.png)
 <img src="position_all_5.png" width="49%" height="49%"> <img src="proper_motion_all_5.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/5_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/5_candidate_g.csv)
 
 
 ### Candidate 6
@@ -86,7 +86,7 @@ This candidate appears near the GD-1 stream at D = 8 kpc (de Boer et al. [2018](
 ![](6_cmd.png)
 <img src="position_all_6.png" width="49%" height="49%"> <img src="proper_motion_all_6.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/6_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/6_candidate_g.csv)
 
 
 ### Candidate 7
@@ -95,7 +95,7 @@ This candidate appears near both the Lethe and Sagittarius streams. It is likely
 ![](7_cmd.png)
 <img src="position_all_7.png" width="49%" height="49%"> <img src="proper_motion_all_7.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/7_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/7_candidate_g.csv)
 
 
 ### Candidate 8
@@ -104,7 +104,7 @@ This candidate is likely associated with the Sagittarius stream. The RR Lyrae ha
 ![](8_cmd.png)
 <img src="position_all_8.png" width="49%" height="49%"> <img src="proper_motion_all_8.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/8_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/8_candidate_g.csv)
 
 
 ### Candidate 9
@@ -113,7 +113,7 @@ This candidate appears likely to be associated with the PS1-D Stream. Not only d
 ![](9_cmd.png)
 <img src="position_all_9.png" width="49%" height="49%"> <img src="proper_motion_all_9.png" width="49%" height="49%">
 
-[Data File](https://github.com/edarragh/edarragh.github.io/blob/main/9_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/9_candidate_g.csv)
 
 You can use the [editor on GitHub](https://github.com/edarragh/edarragh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
