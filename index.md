@@ -39,7 +39,7 @@ RR_LYRAE | TRUE if candidate contains rr lyrae
 ### Candidate 1
 This candidate is located near the disrupting Pisces I dwarf galaxy. However, the RR Lyrae does not appear to be a confirmed member of Pisces I and the color--magnitude diagram and RR Lyrae parallax distance are more consistent with a closer object (D ~ 20 kpc; Molnár et al. [2015](https://academic.oup.com/mnras/article/452/4/4283/1065787)). 
 
-![CMD](0_cmd.png)
+![CMD](1_cmd.png)
 <img src="position_all_1.png" width="49%" height="49%"> <img src="proper_motion_all_1.png" width="49%" height="49%">
 
 [Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/1_candidate_g.csv)
@@ -47,7 +47,7 @@ This candidate is located near the disrupting Pisces I dwarf galaxy. However, th
 ### Candidate 2
 This candidate appears near the Styx Stream, which has been interpreted as the tidal tail of the disrupting Boötes III dwarf galaxy (Carlin & Sand [2018](https://iopscience.iop.org/article/10.3847/1538-4357/aad8c1)). However, the average proper motion is inconsistent with the previously measured value for the stream and the stars shown in the color--magnitude diagram are fainter than expected for an object at 45 kpc (Grillmair [2009](https://iopscience.iop.org/article/10.1088/0004-637X/693/2/1118)).
 
-![CMD](1_cmd.png)
+![CMD](2_cmd.png)
 <img src="position_all_2.png" width="49%" height="49%"> <img src="proper_motion_all_2.png" width="49%" height="49%">
 
 [Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/2_candidate_g.csv)
@@ -56,7 +56,7 @@ This candidate appears near the Styx Stream, which has been interpreted as the t
 ### Candidate 3 
 This candidate is likely associated with the Sagittarius stream. The RR Lyrae has been determined to be a member of the stream with high probability (Ramos et al. [2020](https://www.aanda.org/10.1051/0004-6361/202037819)), and distance estimated from the color--magnitude diagram (around 50 kpc) is consistent with the prediction from (Law & Majewski [2010](https://iopscience.iop.org/article/10.1088/0004-637X/714/1/229)). The proper motion values are consistent with the Sagittarius stream measurements from (Antoja et al. [2020](https://www.aanda.org/articles/aa/abs/2020/03/aa37145-19/aa37145-19.html)), which predicts μ = 1.0 mas/yr. 
 
-![CMD](2_cmd.png)
+![CMD](3_cmd.png)
 <img src="position_all_3.png" width="49%" height="49%"> <img src="proper_motion_all_3.png" width="49%" height="49%">
 
 [Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/3_candidate_g.csv)
