@@ -1,5 +1,6 @@
-## Full Candidate List 
 This site hosts a list of candidate dwarf galaxies returned by a comprehensive search in the Gaia DR2 data using an algorihtm based on the wavelet transform. For a more in-depth description see the [full text](https://arxiv.org/abs/2012.00099). We expect to update this site with EDR3 and DR3 data as soon as it is available. 
+
+## Full Candidate List 
 
 Columns      | Description
 ------------ | -------------
