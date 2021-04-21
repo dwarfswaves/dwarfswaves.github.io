@@ -1,6 +1,0 @@
-numpy
-pandas
-scipy
-sklearn
-torch
-pytorch_wavelets
