@@ -1,11 +1,10 @@
-This site hosts a list of candidate dwarf galaxies returned by a comprehensive search in the Gaia DR2 data using an algorihtm based on the wavelet transform. For a more in-depth description see the [full text](https://arxiv.org/abs/2012.00099). We expect to update this site with EDR3 and DR3 data as soon as it is available. 
+This site hosts a list of candidate dwarf galaxies returned by a comprehensive search in the Gaia DR2 data using an algorihtm based on the wavelet transform. For a more in-depth description see the [full text](https://arxiv.org/abs/2012.00099). The current list has been cross matched with EDR3, but does not contain the full EDR3 analysis. 
 
 ## Full Candidate List 
 
 Columns      | Description
 ------------ | -------------
-ID | candidate number
-significance | wavelet significance (Darragh-Ford et al. 2020)
+SIGNIFICANCE | wavelet significance (Darragh-Ford et al. 2020)
 RA | degrees
 DEC | degrees
 l | degrees
@@ -15,26 +14,17 @@ PS1_FOOTPRINT | TRUE if in PS1 Footprint
 DELVE_FOOTPRINT | TRUE if in DELVE Footprint 
 DECALS_FOOTPRINT | TRUE if in DECals Footprint 
 EBV_FLAG | TRUE if E(B-V) > 0.2 
-GOLD_STANDARD | TRUE if in "gold standard" candidate list 
-RR_LYRAE | TRUE if candidate contains rr lyrae 
+PMRA | Average proper motion value (mas/yr)
+PMDEC | Average proper motion value (mas/yr)
+EDR3 | Significance of cross-matched EDR3 hotspot (0 if no EDR3 hotspot) 
+RR_LYRAE | TRUE if candidate contains rr lyrae
+NSTARS | Number of stars in candidate 
+MAG_AVG | Average magnitude of stars in candidate 
+MAG_MAX| Magnitude of brightest star in candidate 
 
-[Candidate List](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/significance_list_cut_all.csv)
-
-## Gold Standard
-[2](2_candidate.csv) [21](21_candidate.csv) [24](24_candidate.csv) [27](27_candidate.csv) [30](30_candidate.csv) [39](39_candidate.csv) [46](46_candidate.csv) [50](50_candidate.csv) [63](63_candidate.csv) [80](80_candidate.csv) [92](92_candidate.csv) [93](93_candidate.csv) [97](97_candidate.csv)
-[100](100_candidate.csv) [117](117_candidate.csv) [123](123_candidate.csv) [136](136_candidate.csv) [149](149_candidate.csv) [162](162_candidate.csv) [171](171_candidate.csv) [185](185_candidate.csv) [192](192_candidate.csv)
-[205](205_candidate.csv) [242](242_candidate.csv) [251](251_candidate.csv) [253](253_candidate.csv) [254](254_candidate.csv) [262](262_candidate.csv) [267](267_candidate.csv) 
-[300](309_candidate.csv) [305](305_candidate.csv) [322](322_candidate.csv) [330](330_candidate.csv) [340](340_candidate.csv) [347](347_candidate.csv) [348](348_candidate.csv) [386](386_candidate.csv) [387](387_candidate.csv) [391](391_candidate.csv) [393](393_candidate.csv) [396](396_candidate.csv) 
-[407](407_candidate.csv) [418](418_candidate.csv) [424](424_candidate.csv) [444](444_candidate.csv) [445](445_candidate.csv) [450](450_candidate.csv) [451](451_candidate.csv) [453](453_candidate.csv) [470](470_candidate.csv) [480](480_candidate.csv) [486](486_candidate.csv) [496](496_candidate.csv) [497](497_candidate.csv) [498](498_candidate.csv)
-[508](508_candidate.csv) [512](512_candidate.csv) [520](520_candidate.csv) [526](526_candidate.csv) [527](527_candidate.csv) [528](528_candidate.csv) [546](546_candidate.csv) [547](547_candidate.csv) [549](549_candidate.csv) [552](552_candidate.csv) [557](557_candidate.csv) [560](560_candidate.csv) [565](565_candidate.csv) [566](566_candidate.csv) [568](568_candidate.csv) [574](574_candidate.csv) [587](587_candidate.csv) [589](589_candidate.csv) [593](593_candidate.csv)
-[609](609_candidate.csv) [621](621_candidate.csv) [630](630_candidate.csv) [640](640_candidate.csv) [652](652_candidate.csv) [664](664_candidate.csv) [674](674_candidate.csv) [675](675_candidate.csv) [686](686_candidate.csv) [697](697_candidate.csv)
-[700](700_candidate.csv) [737](737_candidate.csv) [749](749_candidate.csv) [755](755_candidate.csv) [770](770_candidate.csv) [779](779_candidate.csv)
-[800](800_candidate.csv) [804](804_candidate.csv) [838](838_candidate.csv) [839](839_candidate.csv) [844](844_candidate.csv) [856](856_candidate.csv)
-[900](900_candidate.csv) [904](904_candidate.csv) [930](930_candidate.csv) [947](947_candidate.csv) [968](968_candidate.csv) [973](973_candidate.csv) [986](986_candidate.csv) [997](997_candidate.csv) [998](998_candidate.csv) [999](999_candidate.csv)
-[1000](1000_candidate.csv) [1010](1010_candidate.csv) [1013](1013_candidate.csv) [1015](1015_candidate.csv) [1020](1020_candidate.csv) [1022](1022_candidate.csv)
-
-## RR Lyrae 
-[78](78_candidate.csv) [94](94_candidate.csv) [109](109_candidate.csv) [335](335_candidate.csv) [363](363_candidate.csv) [389](389_candidate.csv) [400](400_candidate.csv) [401](401_candidate.csv) [414](414_candidate.csv) [420](420_candidate.csv) [436](436_candidate.csv) [442](442_candidate.csv) [456](456_candidate.csv) [457](457_candidate.csv) [461](461_candidate.csv) [468](468_candidate.csv) [511](511_candidate.csv) [599](599_candidate.csv) [665](665_candidate.csv) [758](758_candidate.csv) [824](824_candidate.csv) [841](841_candidate.csv) [846](846_candidate.csv) [913](913_candidate.csv) [942](942_candidate.csv) [978](978_candidate.csv) [1028](1028_candidate.csv) 
+[Gold Standard with RR Lyrae Candidate List](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/CANDIDATE_LISTS/candidate_list_gold_standard_with_rrlyrae.csv)
+[Gold Standard Candidate List](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/CANDIDATE_LISTS/candidate_list_gold_standard.csv)
+[Clean Candidate List](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/CANDIDATE_LISTS/candidate_list_clean.csv)
 
 ## Gold Standard + RR Lyrae Candidates 
 
