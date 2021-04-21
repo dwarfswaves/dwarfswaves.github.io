@@ -1,5 +1,9 @@
 This site hosts a list of candidate dwarf galaxies returned by a comprehensive search in the Gaia DR2 data using an algorihtm based on the wavelet transform. For a more in-depth description see the [full text](https://arxiv.org/abs/2012.00099). The current list has been cross matched with EDR3, but does not contain the full EDR3 analysis. 
 
+
+## Code implementation for wavelet transform pipeline available at: [demeter](https://github.com/edarragh/demeter)
+
+
 ## Full Candidate List 
 
 Columns      | Description
