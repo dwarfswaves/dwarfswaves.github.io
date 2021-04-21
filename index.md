@@ -35,17 +35,17 @@ MAG_MAX| Magnitude of brightest star in candidate
 ## Gold Standard + RR Lyrae Candidates 
 
 ### Candidate 1
-This candidate is located near the disrupting Pisces I dwarf galaxy. However, the RR Lyrae does not appear to be a confirmed member of Pisces I and the color--magnitude diagram and RR Lyrae parallax distance are more consistent with a closer object (D ~ 20 kpc; Molnár et al. [2015](https://academic.oup.com/mnras/article/452/4/4283/1065787)). 
+This candidate is not associated with any known dwarfs or globular clusters. However, it is near the Orion molecular complex making dust contamination a potential issue for both Gaia completeness in the region and the interpretation of stellar colors and magnitudes due to extinction uncertainties (Rezaei et al. [2018](https://www.aanda.org/articles/aa/full_html/2018/08/aa32503-17/aa32503-17.html)). 
 
 ![CMD](1_cmd.png)
 <img src="position_1.png" width="49%" height="49%"> <img src="proper_motion_1.png" width="25%" height="25%">
 
-[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/1_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/candidate_1.csv)
 
 ### Candidate 2
-This candidate appears near the Styx Stream, which has been interpreted as the tidal tail of the disrupting Boötes III dwarf galaxy (Carlin & Sand [2018](https://iopscience.iop.org/article/10.3847/1538-4357/aad8c1)). However, the average proper motion is inconsistent with the previously measured value for the stream and the stars shown in the color--magnitude diagram are fainter than expected for an object at 45 kpc (Grillmair [2009](https://iopscience.iop.org/article/10.1088/0004-637X/693/2/1118)).
+This candidate is likely associated with the Virgo Stellar Stream. The distance of the stream (19 kpc) broadly agrees with the color--magnitude distribution of candidate stars and the associated RR Lyrae has been previously associated with the stream (Prior et al. [2009](https://iopscience.iop.org/article/10.1088/0004-637X/691/1/306)).
 
 ![CMD](2_cmd.png)
 <img src="position_2.png" width="49%" height="49%"> <img src="proper_motion_2.png" width="25%" height="25%">
 
-[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/2_candidate_g.csv)
+[Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/candidate_1.csv)
