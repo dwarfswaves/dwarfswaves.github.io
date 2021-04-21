@@ -24,7 +24,7 @@ MAG_MAX| Magnitude of brightest star in candidate
 
 [Gold Standard with RR Lyrae Candidate List](https://github.com/dwarfswaves/CANDIDATE_LISTS/candidate_list_gold_standard_with_rrlyrae.csv)
 
-[Gold Standard Candidate List](https://github.com/dwarfswaves/CANDIDATE_LISTS/candidate_list_gold_standard.csv)
+[Gold Standard Candidate List](https://github.com/dwarfswaves/CANDIDATE_LISTS/dwarfswaves.github.io/blob/main/candidate_list_gold_standard.csv)
 
 [Clean Candidate List](https://github.com/dwarfswaves/CANDIDATE_LISTS/candidate_list_clean.csv)
 
