@@ -42,6 +42,6 @@ This candidate is located near the disrupting Pisces I dwarf galaxy. However, th
 This candidate appears near the Styx Stream, which has been interpreted as the tidal tail of the disrupting Boötes III dwarf galaxy (Carlin & Sand [2018](https://iopscience.iop.org/article/10.3847/1538-4357/aad8c1)). However, the average proper motion is inconsistent with the previously measured value for the stream and the stars shown in the color--magnitude diagram are fainter than expected for an object at 45 kpc (Grillmair [2009](https://iopscience.iop.org/article/10.1088/0004-637X/693/2/1118)).
 
 ![CMD](2_cmd.png)
-<img src="position_2.png" width="49%" height="49%"> <img src="proper_motion_2.png" width="25%" height="25%">
+<img src="position_2.png" width="49%" height="45%"> <img src="proper_motion_2.png" width="25%" height="25%">
 
 [Data File](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/2_candidate_g.csv)
