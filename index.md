@@ -33,7 +33,7 @@ MAG_MAX| Magnitude of brightest star in candidate
 [Clean Candidate List](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/CANDIDATE_LISTS/candidate_list_clean.csv)
 
 
-**NEW** [FUll EDR3 Candidate List](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/CANDIDATE_LISTS/candidate_list_edr3_all.csv)
+**NEW** [Full EDR3 Candidate List](https://github.com/dwarfswaves/dwarfswaves.github.io/blob/main/CANDIDATE_LISTS/candidate_list_edr3_all.csv)
 
 ## Gold Standard + RR Lyrae Candidates 
 
